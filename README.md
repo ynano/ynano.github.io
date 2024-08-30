@@ -1,5 +1,3 @@
-# nano-proxy.github.io
+# ynano.github.io
 
-Demo for nano.
-
-Uses "wss://wisp.mercurywork.shop/" as a wisp server.
+just made a fork of nano and published it to github pages because why not
